@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "680155187613",
+    "project_id": "mealcare",
+    "storage_bucket": "mealcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680155187613:android:9027ca47e624f137db4774",
+        "android_client_info": {
+          "package_name": "com.aryabose.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ha8i3Et1_-2D57GAFRY_I0Vfk8CF-mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680155187613:android:bc9a6fc3c7779da6db4774",
+        "android_client_info": {
+          "package_name": "com.project.meal_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ha8i3Et1_-2D57GAFRY_I0Vfk8CF-mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680155187613:android:046cab990230a984db4774",
+        "android_client_info": {
+          "package_name": "com.upahaar.volunteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ha8i3Et1_-2D57GAFRY_I0Vfk8CF-mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680155187613-pbk2fr058pr90ulqq5o732cvrf9595u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
